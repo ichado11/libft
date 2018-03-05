@@ -1,1 +1,1 @@
-# test_libft
+# 42 school first project -- libft
